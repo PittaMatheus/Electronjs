@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "easytimer.js": "^4.1.1",
-    "electron": "^9.0.3"
+    "electron": "^11.5.0"
   }
 }
